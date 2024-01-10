@@ -59,6 +59,7 @@ ol{ margin-bottom: 2%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/* my border selecting my favorite runs */
 table{
     border-collapse: collapse;
     width: 100%;
@@ -69,6 +70,8 @@ th, td{
     text-align: left;
     border-bottom: 1px solid black;
 }
+
+/* allowing the section of to changed to orange when hovered over */
 tr :hover{
     background-color: orange;
     
